@@ -1,0 +1,5 @@
+{
+    "name": "iqqa-tags-server-service",
+    "dockerFile": "DockerFile",
+    "runArgs": ["-u", "node"],
+}
